@@ -1,4 +1,7 @@
 package LoadData;
 
-public class LoadDataEntry {
+import java.io.Serializable;
+
+public class LoadDataEntry implements Serializable {
+
 }
